@@ -84,7 +84,7 @@ Assignment/
 
 ---
 
-- GitHub: 
+- GitHub: https://github.com/SaumyaMishra6424/WebDevAssignment
 -Live Demo:web-dev-assignment-rho.vercel.app
 ---
 
